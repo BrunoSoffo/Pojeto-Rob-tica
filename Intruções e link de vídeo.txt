@@ -1,0 +1,5 @@
+Antes de executar o código, aproxime o robo o mais próximo da parede, afim de que os seus sensores identifiquem a parede do mapa
+
+
+Vídeo:
+https://youtu.be/3mHAzEVsJn8
